@@ -1,5 +1,7 @@
-### Hi there 👋
+### I'm Amir👋
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=amir-coder&show_icons=true&theme=dracula&count_private=true"/>
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-coder&layout=compact" />
 <!--
 **amir-coder/amir-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
